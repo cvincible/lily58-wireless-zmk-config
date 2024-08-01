@@ -43,7 +43,7 @@
 &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                    &kp KP_NUMLOCK   &kp KP_DIVIDE    &kp KP_MULTIPLY  &kp KP_SUBTRACT  &trans  &kp UP_ARROW
 &none       &none         &kp F1        &kp F2        &kp F3        &kp F4                          &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_PLUS      &none   &kp LEFT
 &trans      &none         &kp F5        &kp F6        &kp F7        &kp F8                          &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp BACKSPACE    &none   &kp RIGHT
-&tog 0      &trans        &kp F9        &kp F10       &kp F11       &kp F12       &trans    &trans  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp ENTER        &none   &kp DOWN
+&trans      &trans        &kp F9        &kp F10       &kp F11       &kp F12       &trans    &trans  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp ENTER        &none   &kp DOWN
                                         &trans        &trans        &trans        &trans    &trans  &kp KP_NUMBER_0  &kp KP_NUMBER_0  &kp KP_DOT
             >;
         };
@@ -61,7 +61,7 @@
 &trans     &trans      &trans      &trans            &trans             &trans                             &trans          &trans          &trans           &kp MINUS         &kp EQUAL          &trans
 &kp GRAVE  &kp K_PREV  &kp K_NEXT  &kp K_PLAY_PAUSE  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP                    &none           &kp UP_ARROW    &none            &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH
 &trans     &kp F2      &kp F3      &kp F4            &kp F5             &kp F6                             &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp SEMICOLON     &kp SINGLE_QUOTE   &trans
-&tog 0     &kp F8      &kp F9      &kp F10           &kp F11            &kp F12          &trans    &trans  &kp KP_PLUS     &kp MINUS       &kp COMMA        &kp PERIOD        &kp SLASH          &trans
+&trans     &kp F8      &kp F9      &kp F10           &kp F11            &kp F12          &trans    &trans  &kp KP_PLUS     &kp MINUS       &kp COMMA        &kp PERIOD        &kp SLASH          &trans
                                    &trans            &trans             &trans           &trans    &trans  &trans          &trans          &trans
             >;
         };
